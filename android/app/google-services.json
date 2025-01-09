@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661816080734",
+    "project_id": "wallpaperapp-ab019",
+    "storage_bucket": "wallpaperapp-ab019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661816080734:android:aec9b8864a9c973e86f7cf",
+        "android_client_info": {
+          "package_name": "com.genzwallpaperringtone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3i0jZ5KLAHeXSvB9kfR6IS1CbFD4ZYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
